@@ -14,4 +14,4 @@ Card1
 
 Card2
 
-[![Contributions in 3D](/profile-3d-contrib/profile-night-green.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
+[![Snake](/dist/github-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
