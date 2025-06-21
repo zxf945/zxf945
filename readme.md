@@ -8,6 +8,8 @@ Here are some of my creations:
 
 - [Tourfly](https://aigc.aigctour.com/)：aigc tool
 
+---
+
 Card1
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zxf945&show_icons=true&theme=merko&count_private=true)
