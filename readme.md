@@ -14,4 +14,4 @@ Card1
 
 Card2
 
-[![Snake](/dist/github-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+[![Snake](/dist/github-snake-dark.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
