@@ -16,12 +16,8 @@ Here are some of my creations:
 
 ##### Card2
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="/dist/github-snake.svg" />
-</picture>
+![commits](dist/github-snake.svg)(https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 ##### Card3
 
-[![profile-3d-contrib](/profile-3d-contrib/profile-night-green.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
+![profile-3d-contrib](/profile-3d-contrib/profile-night-green.svg)(https://github.com/marketplace/actions/github-profile-3d-contrib)
