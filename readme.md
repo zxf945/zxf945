@@ -16,7 +16,11 @@ Card1
 
 Card2
 
-[![Snake](/dist/github-snake-dark.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="/dist/github-snake.svg" />
+</picture>
 
 Card3
 
