@@ -4,7 +4,7 @@
 
 ---
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,k8s,java,idea,vscode,tailwind,react,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,vite,docker,k8s,java,python,pycharm,idea,vscode)](https://skillicons.dev)
 
 Here are some of my creations:
 
