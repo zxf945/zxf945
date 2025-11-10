@@ -3,6 +3,8 @@
 生死有命，富贵在天
 
 ---
+# My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker)](https://skillicons.dev)
 
 Here are some of my creations:
 
