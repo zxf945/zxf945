@@ -4,7 +4,7 @@
 
 ---
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,tailwind,vite,docker,k8s,java,maven,redis,mysql,mongodb,python,redis,mysql,mongodb,kafka,rabbitmq,fastapi,spring,pycharm,idea,vscode,redhat,ubuntu,linux,apple,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,tailwind,vite,docker,k8s,java,maven,redis,mysql,mongodb,python,redis,mysql,mongodb,kafka,rabbitmq,elasticsearch,figma,gmail,github,gitlab,jenkins,fastapi,spring,pycharm,idea,vscode,redhat,ubuntu,linux,apple,windows)](https://skillicons.dev)
 
 Here are some of my creations:
 
