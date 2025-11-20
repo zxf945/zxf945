@@ -1,5 +1,10 @@
 ## zxf945
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zxf945&label=Profile%20views&color=667eea&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/zxf945?label=Followers&style=flat-square&color=667eea" alt="GitHub followers" />
+</p>
+
 心有山海，静而不争
 
 ---
