@@ -12,16 +12,18 @@
 ### My Skills
 
 #### Program Language
+
 <p>
     <a href="https://skillicons.dev/">
       <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,rust,zig,js,ts,html,css" alt="Program Language" />
     </a>
-     <a href="https://devicon-website.vercel.app/">
-     <img src="https://devicon-website.vercel.app/api/bash/original.svg" width="48" height="48" alt="Program Language">
+    <a href="https://devicon-website.vercel.app/">
+        <img src="https://devicon-website.vercel.app/api/bash/original.svg" width="48" height="48" alt="Program Language">
     </a>
 </p>
 
 #### UI && UX
+
 <p>
   <a href="https://skillicons.dev/">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="UI && UX" />
@@ -29,12 +31,13 @@
 </p>
 
 #### Tools && Frameworks
+
 <p>
-  <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=autocad,nodejs,jquery,react,redux,babel,npm,pnpm,yarn,tailwind,vite,docker,k8s,maven,redis,mysql,mongodb,postgresql,sqlite,atom,redis,mysql,mongodb,kafka,nginx,rabbitmq,elasticsearch,git,github,gitlab,jenkins,fastapi,spring,hibernate,pycharm,idea,webstorm,clion,postman,obsidian,eclipse,vscode,visualstudio,md,atom,sublime,redhat,ubuntu,linux,apple,windows,aws,twitter,discord,stackoverflow,instagram,linkedin,gmail" alt="Tools And Frameworks" />
-  </a>
-      <a href="https://devicon-website.vercel.app/">
-     <img src="https://devicon-website.vercel.app/api/anaconda/original.svg" width="48" height="48" alt="Tools And Frameworks">
+    <a href="https://skillicons.dev/">
+        <img src="https://skillicons.dev/icons?i=autocad,nodejs,jquery,react,redux,babel,npm,pnpm,yarn,tailwind,vite,docker,k8s,maven,redis,mysql,mongodb,postgresql,sqlite,atom,redis,mysql,mongodb,kafka,nginx,rabbitmq,elasticsearch,git,github,gitlab,jenkins,fastapi,spring,hibernate,pycharm,idea,webstorm,clion,postman,obsidian,eclipse,vscode,visualstudio,md,atom,sublime,redhat,ubuntu,linux,apple,windows,aws,twitter,discord,stackoverflow,instagram,linkedin,gmail" alt="Tools And Frameworks" />
+    </a>
+    <a href="https://devicon-website.vercel.app/">
+        <img src="https://devicon-website.vercel.app/api/anaconda/original.svg" width="48" height="48" alt="Program Language">
     </a>
 </p>
 
