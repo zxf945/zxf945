@@ -15,7 +15,7 @@
 
 <p>
     <a href="https://skillicons.dev/">
-      <img src="https://skillicons.dev/icons?i=java,go,rust,c,cpp,python,zig,js,ts,html,css,shell" alt="Program Language" />
+      <img src="https://skillicons.dev/icons?i=java,go,rust,c,cpp,python,zig,js,ts,html,css" alt="Program Language" />
     </a>
 </p>
 
