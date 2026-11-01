@@ -15,17 +15,8 @@
 
 <p>
     <a href="https://skillicons.dev/">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,rust,zig,js,ts,html,css" alt="Program Language" />
+      <img src="https://skillicons.dev/icons?i=java,go,rust,c,cpp,python,zig,js,ts,html,css,shell" alt="Program Language" />
     </a>
- <a href="https://devicon-website.vercel.app/">
-    <img 
-        src="https://devicon-website.vercel.app/api/bash/original.svg" 
-        width="48" 
-        height="48" 
-        alt="Program Language"
-        style="max-width: 100%; height: auto; width: 48px;"
-    >
-</a>
 </p>
 
 #### UI && UX
